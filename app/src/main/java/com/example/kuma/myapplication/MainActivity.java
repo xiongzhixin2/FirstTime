@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
 
     private void init() {
         Log.d("git", "init: helloworld");
+        Log.d("git", "init: iss");
     }
 }
